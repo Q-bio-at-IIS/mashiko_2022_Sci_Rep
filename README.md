@@ -7,6 +7,9 @@ This repository include
 + Dump: Mathematica Dump file of the images used in the sample
 + TIFF: TIFF version of the image used in the sample.
 
-## Installation: copy this folder by keeping the subfolder structure.
-
+## Installation: 
+copy this following files in the repository by keeping the subfolder structure:
++ sample_code.nb
++ Dump/
++ TIFF/
 

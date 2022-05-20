@@ -13,3 +13,8 @@ copy this following files in the repository by keeping the subfolder structure:
 + Dump/
 + TIFF/
 
+## Execution:
+Sample_code.nb was implemented on Mathematica ver11 and tested by Mathematica ver10, ver 11 on Mac Book Pro with Intel processor.
+The latest version of Mathematica, especially that for Mac M1 processor, contains bugs around 3D visualization functions.
+If the code crushes in your environment, please try Mathematica of older version on an Intel Mac computer.
+

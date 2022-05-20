@@ -7,6 +7,10 @@ This repository include
 + TIFF: TIFF version of the image used in the sample.
 + Dump: Dammy folder in which Mathematica Dump file of the images used in the sample code should be stored
 
+The content of a dump file, W1F002TallC2E03, is identical to that of TIFF file.
+Othe damp files are the results of image processing and mannually 
+
+
 ## Installation: 
 copy this following files in the repository by keeping the subfolder structure:
 + sample_code.nb

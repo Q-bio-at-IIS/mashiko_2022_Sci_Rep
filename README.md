@@ -1,4 +1,4 @@
-# mashiko_2022_Sci_Rep
+# Mashiko_2022_Sci_Rep
 Image analysis code used in Mashiko et al. 2022 Sci. Rep. 
 
 ## Contents
